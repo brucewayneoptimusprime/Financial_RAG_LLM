@@ -1,0 +1,8 @@
+# --- project data & secrets ---
+/data/raw/
+/data/interim/
+/processed/*.faiss
+/processed/*.jsonl
+/data/cache/
+/logs/
+.env
